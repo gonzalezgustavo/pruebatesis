@@ -1,1 +1,5 @@
 ANOTACIONES
+react
+mysql
+nestJS
+nextJS
